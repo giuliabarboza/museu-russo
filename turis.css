@@ -1,0 +1,32 @@
+fieldset {
+    background-color: rgb(2, 23, 178);
+    border: none;
+    color: white;
+    width: 650px;
+}
+
+body {
+    background-color: rgb(134, 209, 255);
+    font-family: arial, sans-serif;
+}
+
+.div-cabeca {
+    width: 100%;
+}
+ button{
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    background-color: #424dc3;
+    box-shadow: 0 0 0.3 3px;
+    color: white;
+ }
+ footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(2, 23, 178);
+    color: white;
+    max-width: 100%;
+    padding: 25px;
+ }
